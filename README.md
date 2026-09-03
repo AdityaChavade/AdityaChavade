@@ -2,18 +2,18 @@
 ### ADITYA CHAVADE
 
 <!-- Profile & Social Links -->
+<!-- Profile & Social Links -->
 <p align="center">
-  <a href="https://leetcode.com/u/AdityaChavade/" target="_blank">
+  <a href="https://leetcode.com/u/Aditya_Chavade/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 ---
 
 ### 🚀 Projects & Innovations
