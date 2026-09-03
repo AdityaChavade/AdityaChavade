@@ -8,7 +8,7 @@
 ### 🏆 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/AdityaChavade/">
+  <a href="https://leetcode.com/u/Aditya_Chavade/">
     <img src="https://leetcard.jacoblin.cool/AdityaChavade?theme=dark&font=Karma" alt="LeetCode Stats" height="180" />
   </a>
 </p>
